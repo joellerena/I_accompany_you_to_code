@@ -1,2 +1,3 @@
-# my_cathedral
-Use of photogrammetry with augmented reality in a mobile application for digital conversation of structures
+# I accompany you to code
+Te acompaño a programar / Te acompaño a codificar
+Versión 1.0
