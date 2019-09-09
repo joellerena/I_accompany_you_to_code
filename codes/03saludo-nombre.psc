@@ -1,3 +1,3 @@
 Algoritmo nombre_y_apellido
-	Escribir "Juan Bosco"
+	Escribir "Cristina Llerena"
 FinAlgoritmo
