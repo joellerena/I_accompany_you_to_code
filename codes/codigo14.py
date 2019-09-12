@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Sep  5 16:18:39 2019
+Created on Wed Sep  4 22:09:08 2019
 """
-import math
-r = 1
-p = 2 * r * math.pi
-a = math.pi * r * r
-print("Perímetro: ", p)
-print("Área: ", a)
+numero = int()
+numero = 4
+sueldo = float()
+sueldo = 2600
+print(numero," ",sueldo)

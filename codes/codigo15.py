@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep  9 11:56:51 2019
+Created on Thu Sep  5 16:18:39 2019
 """
-lado = 3
-n = 5
-ap = 2
-p = lado * n
-A = p * ap
-print("PerÌmetro: ",p)
-print("¡rea: ",A)
+import math
+r = 1
+p = 2 * r * math.pi
+a = math.pi * r * r
+print("Per√≠metro: ", p)
+print("√Årea: ", a)

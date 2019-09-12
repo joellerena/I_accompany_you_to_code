@@ -2,15 +2,11 @@
 """
 Created on Tue Sep  3 13:01:54 2019
 """
-palabras = "Mi amiga María Cristina"
-numero = 19
-todo = "{:>28}".format("Mi amigo Sebastián")
-print(todo)
-print( "{:>28}".format(palabras) ) 
-print( "{:28}".format(palabras), end="")
-print("sigue")
-print( "{:^28}".format(palabras) )
-print( "{:.8}".format(palabras) )
-palabras = "Mi amiga María Cristina"
-otra_forma = f"Hola {palabras}"
-print(otra_forma)
+nombre = "Mi amigo Sebastián"
+numero1 = 25
+logico1 = False
+lista = [21,22,23,24,25]
+print (nombre)
+print (numero1)
+print (logico1)
+print (lista[2])

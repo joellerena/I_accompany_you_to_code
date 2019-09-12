@@ -1,15 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Sep  3 19:17:38 2019
+Created on Tue Sep  3 16:22:57 2019
 """
-x = 7 / 5
-y = 17 / 3 #decimales
-z = 17 // 3 #sin redondeo
-w = 17 % 3 #resto
-v = 7 ** 2 #cuadrado
-u = 7^2 #xor a nivel de bits 0111 xor 0010 = 0101 es 5
-print(x)
-print(y)
-print(z)
-print (w)
-print (u)
+t = "palabra," #string
+n = 23 #entero
+print("Una palabra,",t,"ahora un número",n)
+m = "Una palabra, {} ahora un número '{}'".format(t,n)
+print(m) #uso de función de formato a referencia
+print(3 * t + t) #triplicar string y concatenar

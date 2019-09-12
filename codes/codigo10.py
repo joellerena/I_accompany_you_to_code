@@ -4,7 +4,13 @@ Created on Tue Sep  3 13:01:54 2019
 """
 palabras = "Mi amiga María Cristina"
 numero = 19
-todo = "Primero: '{0}' y segundo: '{1}'".format(palabras,numero)
+todo = "{:>28}".format("Mi amigo Sebastián")
 print(todo)
-todo = "Primero: '{1}' y segundo: '{0}'".format(palabras,numero)
-print(todo)
+print( "{:>28}".format(palabras) ) 
+print( "{:28}".format(palabras), end="")
+print("sigue")
+print( "{:^28}".format(palabras) )
+print( "{:.8}".format(palabras) )
+palabras = "Mi amiga María Cristina"
+otra_forma = f"Hola {palabras}"
+print(otra_forma)

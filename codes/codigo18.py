@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep  9 12:05:19 2019
+Created on Sun Sep  8 19:34:09 2019
 """
-n1 = int(input("Ingrese un número: "))
-n2 = int(input("Ingrese otro número: "))
-cociente1 = n1 / n2
-cociente2 = int(n1 / n2) # parte entera sin redondeo
-residuos = (n1 % n2)
-print("Cociente: ", cociente1)
-print("Cociente: ", cociente2)
-print("Residuo: ",residuos)
+import math
+a = 3 # adyacente a te
+b = 4 # opuesto a te
+c = 5 # hipotenusa
+angulo = 53.13010235415598
+h = a / math.cos(angulo * math.pi/180)
+print("Hipotenusa: ",h)
+identidad = 3 / 5
+te = math.acos(identidad)
+print("Ángulo: ",te * 180/math.pi)

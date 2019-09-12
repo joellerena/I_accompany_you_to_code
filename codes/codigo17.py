@@ -1,14 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Sep  8 19:34:09 2019
+Created on Mon Sep  9 11:56:51 2019
 """
 import math
-a = 3 # adyacente a te
-b = 4 # opuesto a te
-c = 5 # hipotenusa
-angulo = 53.13010235415598
-h = a / math.cos(angulo * math.pi/180)
-print("Hipotenusa: ",h)
-identidad = 3 / 5
-te = math.acos(identidad)
-print("Ángulo: ",te * 180/math.pi)
+a = 3
+b = 4
+c1 = math.sqrt(a*a + b*b)
+c2 = math.hypot(a,b)
+print("Hipotenusa: ",c1)
+print("Hipotenusa: ",c2)
