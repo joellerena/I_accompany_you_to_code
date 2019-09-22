@@ -1,5 +1,5 @@
 # I accompany you to code
-![Imagen](https://github.com/joellerena/I_accompany_you_to_code/blob/master/images/py1.jpg)
+![Imagen](https://github.com/joellerena/I_accompany_you_to_code/blob/master/images/cep1.jpg)
 
 Te acompaño a programar / Te acompaño a codificar <br>
 Versión 1.0<br>
