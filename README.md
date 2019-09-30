@@ -10,4 +10,4 @@ El documento se compone de varios módulos cada uno de ellos con ejercicios expl
 ...El autor.
 
 Pd. La App puede descargarla de: 
-<a href="http://bit.ly/Cepv1" target="_blank">App Codifica en Pythone</a>.
+<a href="http://bit.ly/Cepv1" target="_blank">App Codifica en Python</a>.
