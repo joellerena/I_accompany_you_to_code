@@ -8,3 +8,5 @@ Una breve introducción a la iniciación en algoritmos y programas. Deseo que la
 El documento se compone de varios módulos cada uno de ellos con ejercicios explicativos.<br>
 Ánimo, en esta lectura te acompaño.<br>
 ...El autor.
+
+Pd. La App puede descargarla de: http://bit.ly/Cepv1
