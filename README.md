@@ -7,7 +7,7 @@ El presente libro es una recopilación de problemas y ejercicios convertidos en 
 Una breve introducción a la iniciación en algoritmos y programas. Deseo que la lectura de este trabajo pueda ayudarte a conocer el mundo de la programación iniciando en este lenguaje llamado Python.<br>
 El documento se compone de varios módulos cada uno de ellos con ejercicios explicativos.<br>
 Ánimo, en esta lectura te acompaño.<br>
-...El autor.
+...el autor.
 
 Pd. La App puede descargarla de: 
 <a href="http://bit.ly/Cepv1" target="_blank">App Codifica en Python</a>.
@@ -20,7 +20,7 @@ This book is a compilation of problems and exercises converted into significant 
 A brief introduction to the introduction in algorithms and programs. I wish that reading this work can help you to know the world of programming by starting in this language called Python.<br>
 The document consists of several modules each with explanatory exercises.<br>
 Cheer up!, in this reading I accompany you.<br>
-...The author.
+...the author.
 
 Pd. The App can download it from: 
 <a href="http://bit.ly/Cepv1" target="_blank">App Encode in Python</a>.
