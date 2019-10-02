@@ -23,4 +23,4 @@ Cheer up!, in this reading I accompany you.<br>
 ...The author.
 
 Pd. The App can download it from: 
-<a href="http://bit.ly/Cepv1" target="_blank">App Codifica en Python</a>.
+<a href="http://bit.ly/Cepv1" target="_blank">App Encode in Python</a>.
