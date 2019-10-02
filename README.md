@@ -14,12 +14,12 @@ Pd. La App puede descargarla de:
 
 *************************************
 
-I accompany you to program / I accompany you to code
-Version 1.0
-This book is a compilation of problems and exercises converted into significant learning activities in the Python programming language for students of the first years of university study.
-A brief introduction to the introduction in algorithms and programs. I wish that reading this work can help you to know the world of programming by starting in this language called Python.
-The document consists of several modules each with explanatory exercises.
-Courage, in this reading I accompany you.
+I accompany you to program / I accompany you to code<br>
+Version 1.0<br>
+This book is a compilation of problems and exercises converted into significant learning activities in the Python programming language for students of the first years of university study.<br>
+A brief introduction to the introduction in algorithms and programs. I wish that reading this work can help you to know the world of programming by starting in this language called Python.<br>
+The document consists of several modules each with explanatory exercises.<br>
+Courage, in this reading I accompany you.<br>
 ...The author.
 
 Pd. The App can download it from: 
