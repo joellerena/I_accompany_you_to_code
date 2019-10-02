@@ -11,3 +11,16 @@ El documento se compone de varios módulos cada uno de ellos con ejercicios expl
 
 Pd. La App puede descargarla de: 
 <a href="http://bit.ly/Cepv1" target="_blank">App Codifica en Python</a>.
+
+*************************************
+
+I accompany you to program / I accompany you to code
+Version 1.0
+This book is a compilation of problems and exercises converted into significant learning activities in the Python programming language for students of the first years of university study.
+A brief introduction to the introduction in algorithms and programs. I wish that reading this work can help you to know the world of programming by starting in this language called Python.
+The document consists of several modules each with explanatory exercises.
+Courage, in this reading I accompany you.
+...The author.
+
+Pd. The App can download it from: 
+<a href="http://bit.ly/Cepv1" target="_blank">App Codifica en Python</a>.
